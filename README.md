@@ -1,5 +1,5 @@
-# Project-1--Tic-Tac-Toe
-Tic Tac Toe Game---HTML/ CSS/Javascript
+# Project---Tic-Tac-Toe
+
 
 ## How to play
 It is played on a three-by-three grid by one player with computer player, who placing 🐵s and 🐸s on the board until either player has three in a row, horizontally, vertically, or diagonally or until all squares on the grid are filled. If a player is able to draw three 🐵s or three 🐸s in a row, then that player wins. If all squares are filled and neither player has made a complete row of 🐵s or 🐸s, then the game is a draw
@@ -10,8 +10,8 @@ It is played on a three-by-three grid by one player with computer player, who pl
 
 
 ## Language
-HTML/ CSS/Javascript
+HTML/ CSS/ Javascript
 
 
 ## Contribution
-reference link: https://dev.to/bornasepic/pure-and-simple-tic-tac-toe-with-javascript-4pgn
+Reference link: https://dev.to/bornasepic/pure-and-simple-tic-tac-toe-with-javascript-4pgn
